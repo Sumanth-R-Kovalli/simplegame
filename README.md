@@ -26,7 +26,7 @@ A clone of the popular Flappy Bird game built using [Python and Pygame](https://
 
 1. Clone the repository:
    
-    git clone https://github.com/your-username/flappy-bird.git
+    git clone https://github.com/Sumanth-R-Kovalli/simplegame.git
     cd flappy-bird
     
 2. Install Pygame:
